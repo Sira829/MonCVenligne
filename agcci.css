@@ -1,0 +1,13 @@
+body{
+    background-color:wheat;    
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ;
+}
+p{
+    font-size: 15px;
+}
+h1{
+    background-color:green;
+   font-style:inherit
+p:hover{
+    color: blue;
+}
